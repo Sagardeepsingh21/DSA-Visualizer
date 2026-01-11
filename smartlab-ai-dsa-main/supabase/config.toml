@@ -1,0 +1,16 @@
+project_id = "vugzqauodzqftdvmjaxy"
+
+[functions.execute-code]
+verify_jwt = false
+
+[functions.ai-mentor]
+verify_jwt = false
+
+[functions.ai-explain]
+verify_jwt = false
+
+[functions.code-explainer]
+verify_jwt = false
+
+[functions.generate-visualization]
+verify_jwt = false
