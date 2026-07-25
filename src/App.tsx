@@ -26,6 +26,7 @@ import ProblemsPage from "./pages/ProblemsPage";
 import ProblemDetail from "./pages/ProblemDetail";
 import NotFound from "./pages/NotFound";
 
+console.log("Git Test");
 const queryClient = new QueryClient();
 
 const App = () => (
